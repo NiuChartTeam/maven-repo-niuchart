@@ -4,8 +4,8 @@
   <artifactId>NXCore</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160314133338</lastUpdated>
+    <lastUpdated>20160328130307</lastUpdated>
   </versioning>
 </metadata>

@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.niuchart</groupId>
   <artifactId>NXCore</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.2-SNAPSHOT</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -39,13 +39,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.crashlytics.sdk.android</groupId>
-      <artifactId>crashlytics</artifactId>
-      <version>2.5.5</version>
-      <type>aar</type>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>recyclerview-v7</artifactId>
       <version>23.1.1</version>
@@ -56,6 +49,12 @@
       <artifactId>android-database-sqlcipher</artifactId>
       <version>3.3.1-2</version>
       <type>aar</type>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.squareup.okhttp3</groupId>
+      <artifactId>okhttp</artifactId>
+      <version>3.2.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
