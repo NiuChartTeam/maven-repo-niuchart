@@ -2,12 +2,12 @@
 <metadata>
   <groupId>com.niuchart</groupId>
   <artifactId>NXCore</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.3-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20160328.170628</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20160329.104710</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20160328170628</lastUpdated>
+    <lastUpdated>20160329104710</lastUpdated>
   </versioning>
 </metadata>
